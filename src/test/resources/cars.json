@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "Ford",
+    "model": "Fusion",
+    "year":"2015",
+    "fuelType":"gasoline A-95",
+    "transmission":"6",
+    "horsePower":"150"
+  },
+  {
+    "brand": "Mazda",
+    "model": "RX8",
+    "year":"2012",
+    "fuelType":"gasoline A-95",
+    "transmission":"6",
+    "horsePower":"250"
+  },
+  {
+    "brand": "Renault",
+    "model": "Scenic",
+    "year":"2009",
+    "fuelType":"diesel",
+    "transmission":"5",
+    "horsePower":"130"
+  }
+]
